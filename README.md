@@ -1,6 +1,6 @@
-BuscaCEP
+<h1>BuscaCEP</h1>
 
-Uma SPA que consome uma API externa pra fazer a consulta de CEP's e renderizar várias informações conectadas ao CEP.
+<h2>Uma SPA que consome uma API externa pra fazer a consulta de CEP's e renderizar várias informações conectadas ao CEP.</h2>
 
 ![1](https://user-images.githubusercontent.com/99445645/174894021-2209c4b6-2266-47cf-8f29-c6c03fb87dc6.PNG)
 ![2](https://user-images.githubusercontent.com/99445645/174894026-229f592d-7e2f-4959-b015-1e4242c810d9.PNG)
